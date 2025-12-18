@@ -1,0 +1,17 @@
+VALID_HORSES = {
+    "Oguri Cap",
+    "El Condor Pasa",
+    "Sakura Bakushin O",
+    "Gold Ship",
+    "Taiki Shuttle",
+    "Manhattan Cafe",
+    "Silence Suzuka",
+    "Eishin Flash",
+    "Agnes Tachyon",
+    "Vodka",
+    "Air Groove",
+    "Mayano Top Gun",
+    "Maruzensky",
+    "Haru Urara",
+    "Opera O",
+}
